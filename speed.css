@@ -1,0 +1,14 @@
+/* styles.css */
+.speed {
+                                                                                                    font-size: 24px;
+                                                                                                    text-align: center;
+                                                                                                    margin-top: 50px;
+                                                                                                }
+                                                                                                
+                                                                                                #speed {
+                                                                                                    background-image: url('battery.jpg');
+                                                                                                    font-size: 36px;
+                                                                                                    font-weight: bold;
+                                                                                                    color: #224f37; /* Blue color for speed */
+                                                                                                }
+                                                                                                
